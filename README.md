@@ -1,4 +1,6 @@
 # EduAnimalGame
+![image](https://user-images.githubusercontent.com/46362346/104829305-d7561580-58b5-11eb-90d0-08cae4576ce8.png)
+![image](https://user-images.githubusercontent.com/46362346/104829310-de7d2380-58b5-11eb-9389-8903d614c3f8.png)
 ![g-index](https://user-images.githubusercontent.com/46362346/104579246-12323080-569f-11eb-8b4d-4ad2b4b516eb.png)
 ![g-info](https://user-images.githubusercontent.com/46362346/104579693-a3090c00-569f-11eb-9db6-eb7bff14d2f2.png)
 ![g-collection](https://user-images.githubusercontent.com/46362346/104579266-16f6e480-569f-11eb-8ebf-8370565f6449.png)
